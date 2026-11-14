@@ -4,8 +4,7 @@ Backend-leaning full-stack developer. I build complete systems — Spring Boot A
 auth and database design, and Next.js frontends that consume them — and I deploy them rather
 than leaving them on `localhost`.
 
-I care about the parts that are easy to skip: role-based access control, rate limiting,
-migrations, CI, and documentation that lets someone else run the project.
+I care about the parts that are easy to skip: role-based access control, rate limiting, schema and index design, CI, and documentation that lets someone else run the project.
 
 ---
 
