@@ -57,6 +57,8 @@ Express + SQLite portfolio with an admin panel and image uploads.
 ## Currently
 
 - Deepening database work: query tuning, indexing strategy, and transaction isolation
+- Writing a from-scratch MySQL course - fundamentals through window functions, with a
+  runnable practice schema: [learning/mysql](https://github.com/SaGaru007/royal-travels/tree/main/learning/mysql)
 
 ## Get in touch
 
