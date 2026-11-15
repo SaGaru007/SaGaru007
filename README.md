@@ -14,6 +14,7 @@ I am open to more than the stack I have already shipped in. I am enthusiastic ab
 engineering, I adapt quickly to new tools and unfamiliar problems, and I learn best by being given
 real work to do. If a team needs someone who will pick things up fast and put the effort in, that
 is the role I want.
+
 ## Featured projects
 
 ### 🚕 [royal-travels](https://github.com/SaGaru007/royal-travels)
