@@ -1,6 +1,6 @@
 # Hi, I'm Sagar 👋
 
-Backend-leaning full-stack developer. I build complete systems — Spring Boot APIs with real
+Backend-leaning full-stack developer, now working towards AI and data engineering. I build complete systems — Spring Boot APIs with real
 auth and database design, and Next.js frontends that consume them — and I deploy them rather
 than leaving them on `localhost`.
 
@@ -8,6 +8,24 @@ I care about the parts that are easy to skip: role-based access control, rate li
 
 ---
 
+## AI and data - where I am heading
+
+I am moving towards AI engineering, and I am clear about the starting point: one solid academic
+project, genuine interest, and a lot of deliberate practice ahead.
+
+- **Academic project - medicinal plant identification.** In Jupyter notebooks I prepared leaf
+  images with Python image-processing libraries and trained CNN-based models, along with related
+  architectures, to classify plant species from photographs.
+- **What the project taught me.** The whole loop, not just the model: dataset preparation and
+  augmentation, training runs, checking results honestly, and going back to fix the data or the
+  architecture when the numbers were not good enough.
+- **What I am doing now.** Strengthening Python and SQL, and learning the data-engineering side -
+  storage, data modelling, pipelines - that decides whether an AI model is useful outside a
+  notebook.
+
+I am ready to adapt and learn quickly. Python, data engineering and AI engineering roles are
+where I want to go next, and I would rather be judged on how fast I learn than on the length of
+my CV.
 ## Featured projects
 
 ### 🚕 [royal-travels](https://github.com/SaGaru007/royal-travels)
@@ -48,10 +66,11 @@ Express + SQLite portfolio with an admin panel and image uploads.
 
 ## Toolbox
 
-**Languages** Java · TypeScript · JavaScript · SQL
+**Languages** Java · TypeScript · JavaScript · SQL · Python
 **Backend** Spring Boot · Spring Security · JPA/Hibernate · Express · REST
 **Frontend** Next.js (App Router) · React · Tailwind CSS
 **Data** PostgreSQL · MySQL · SQLite
+**AI / data** Jupyter · NumPy · pandas · image processing · CNN training
 **Tooling** Docker · Git · GitHub Actions · Maven · Vercel · Render
 
 ## Currently
@@ -64,4 +83,4 @@ Express + SQLite portfolio with an admin panel and image uploads.
 
 📧 [sagarhadapad200@gmail.com](mailto:sagarhadapad200@gmail.com)
 
-Open to backend and full-stack roles.
+Open to backend, full-stack, Python, data engineering and AI engineering roles.
