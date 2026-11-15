@@ -8,25 +8,12 @@ I care about the parts that are easy to skip: role-based access control, rate li
 
 ---
 
-## AI and data - where I am heading
+## Beyond my current stack
 
-I am moving towards AI engineering, and I am clear about the starting point: one solid academic
-project, genuine interest, and a lot of deliberate practice ahead.
-
-- **Academic project - medicinal plant identification.** In Jupyter notebooks I prepared leaf
-  images with Python image-processing libraries and trained CNN-based models, along with related
-  architectures, to classify plant species from photographs.
-- **What the project taught me.** The whole loop, not just the model: dataset preparation and
-  augmentation, training runs, checking results honestly, and going back to fix the data or the
-  architecture when the numbers were not good enough.
-- **What I am doing now.** Strengthening Python and SQL, and learning the data-engineering side -
-  storage, data modelling, pipelines - that decides whether an AI model is useful outside a
-  notebook.
-
-I am ready to adapt and learn quickly. Python, data engineering and AI engineering roles are
-where I want to go next, and I would rather be judged on how fast I learn than on the length of
-my CV.
-
+I am open to more than the stack I have already shipped in. I am enthusiastic about AI and data
+engineering, I adapt quickly to new tools and unfamiliar problems, and I learn best by being given
+real work to do. If a team needs someone who will pick things up fast and put the effort in, that
+is the role I want.
 ## Featured projects
 
 ### 🚕 [royal-travels](https://github.com/SaGaru007/royal-travels)
@@ -71,7 +58,6 @@ Express + SQLite portfolio with an admin panel and image uploads.
 **Backend** Spring Boot · Spring Security · JPA/Hibernate · Express · REST
 **Frontend** Next.js (App Router) · React · Tailwind CSS
 **Data** PostgreSQL · MySQL · SQLite
-**AI / data** Jupyter · NumPy · pandas · image processing · CNN training
 **Tooling** Docker · Git · GitHub Actions · Maven · Vercel · Render
 
 ## Currently
