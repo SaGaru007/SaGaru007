@@ -26,6 +26,7 @@ project, genuine interest, and a lot of deliberate practice ahead.
 I am ready to adapt and learn quickly. Python, data engineering and AI engineering roles are
 where I want to go next, and I would rather be judged on how fast I learn than on the length of
 my CV.
+
 ## Featured projects
 
 ### 🚕 [royal-travels](https://github.com/SaGaru007/royal-travels)
